@@ -30,7 +30,7 @@
 }
 .bannerPreto{
     height: 250px;
-    background-image: url("/imagem/bannerPreto.png");
+    background-image: url("../imagem/bannerPreto.png");
 }
 
 blockquote{
