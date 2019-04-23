@@ -26,11 +26,11 @@
 /* ----- PRINCIPAL ----- */
 .banner{
     height: 332px;
-    background-image: url('imagem/banner1.jpg');
+    background-image: url('./imagem/banner1.jpg');
 }
 .bannerPreto{
     height: 250px;
-    background-image: url('imagem/bannerPreto.png');
+    background-image: url('./imagem/bannerPreto.png');
 }
 
 blockquote{
@@ -50,7 +50,7 @@ blockquote footer{
 }
 
 .parallax{
-    background-image: url(/imagem/banner2.jpg);
+    background-image: url('./imagem/banner2.jpg');
     height: 430px;
     background-attachment: fixed;
     background-position: center;
