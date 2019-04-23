@@ -1,0 +1,67 @@
+/* ----- NAVEGAÇÃO ----- */
+.icone{
+    width: 20px;
+    height: 20px;
+}
+
+.navbar{
+    background-color: #D8D8D8;
+}
+
+.espaco{
+    border-radius: 50%;
+}
+
+.espaco:hover{
+    /* COLOCAR CADA ICONE COM UMA COR */
+    background-color:#fff;
+    transition: 0.5s;
+}
+
+.logomarca{
+    width: 13em;
+    height: auto;
+}
+
+/* ----- PRINCIPAL ----- */
+.banner{
+    height: 332px;
+    background-image: url(/imagem/banner1.jpg);
+}
+.bannerPreto{
+    height: 250px;
+    background-image: url(/imagem/bannerPreto.png);
+}
+
+blockquote{
+    color: #D8D8D8;
+}
+blockquote p{
+    font-size: 2rem;
+    font-style: italic;
+}
+blockquote footer{
+    font-size: 1rem;
+}
+
+.iconeTrab{
+    width: 64px;
+    height: 64px;
+}
+
+.parallax{
+    background-image: url(/imagem/banner2.jpg);
+    height: 430px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* ----- FOOTER ----- */
+.rodape{
+    margin: 0;
+    padding: 1em;
+    color: #EFE9F4;
+    background-color: #0F0F0F;
+    text-align: center;
+}
