@@ -29,8 +29,8 @@
     background-image: url(../imagem/imagemBackUm.jpg);
 }
 .bannerPreto{
-    height: 250px;
-    background-image: url(../imagem/imagemBlack.png);
+    min-height: 250px;
+    background-color: black;
 }
 
 blockquote{
